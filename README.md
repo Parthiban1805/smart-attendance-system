@@ -75,11 +75,6 @@ python3 entry_cam.py
 python3 exit_cam.py
 ```
 
-#### Option 2: Using Python Script Runner
-```bash
-# Run both cameras simultaneously
-python run_dual_system.py
-```
 
 ### Configuration
 
